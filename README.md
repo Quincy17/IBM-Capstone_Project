@@ -41,17 +41,20 @@ Proyek ini bertujuan membangun **prototipe sistem peringatan dini (early warning
 
 ### 🔹 Temuan 2: Model Prediktif Akurat  
 - **XGBoost** mampu memprediksi PM10 harian dengan baik.  
-- **MAE = 7.20**, prediksi mengikuti tren aktual dengan ketat.  
+- **MAE = 7.20**, prediksi mengikuti tren aktual dengan sangat baik.  
+![Image ](images/perbandingan-aktual-prediksi.png)
 
 ### 🔹 Temuan 3: Tren Jangka Pendek Jadi Prediktor Terkuat  
 - Fitur paling penting: **pm10_rolling_mean7** (rata-rata 7 hari terakhir).  
 - Menunjukkan sifat polusi yang **persisten**.  
+![Image ](images/fitur-penting.png)
 
 ### 🔹 Temuan 4: Emisi Kendaraan = Narasi Utama Media  
 - Analisis AI (IBM Granite) → penyebab terbanyak:  
   1. 🚗 Emisi Kendaraan  
   2. 🏭 Aktivitas Industri  
   3. 🌦 Kondisi Meteorologi  
+![Image ](images/penyebab-utama.png)
 
 ---
 
