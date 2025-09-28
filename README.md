@@ -37,7 +37,7 @@ Proyek ini bertujuan membangun **prototipe sistem peringatan dini (early warning
 ### 🔹 Temuan 1: Polusi Udara Bersifat Musiman  
 - Polusi meningkat signifikan di **musim kemarau** (Juni–Oktober).  
 - Faktor iklim berperan besar dalam fluktuasi polusi.  
-
+![Image ](images/rata-rata PM10 perbulan.png)
 ### 🔹 Temuan 2: Model Prediktif Akurat  
 - **XGBoost** mampu memprediksi PM10 harian dengan baik.  
 - **MAE = 7.20**, prediksi mengikuti tren aktual dengan ketat.  
