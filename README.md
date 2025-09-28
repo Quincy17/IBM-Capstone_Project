@@ -86,5 +86,5 @@ Hasilnya: sistem yang **akurat, kontekstual, dan dapat ditindaklanjuti**.
 
 ---
 
-✍️ **Author**: [Nama Anda]  
+✍️ **Developer**: Muhammad Farrel Caesarian
 📅 **Tahun**: 2025  
