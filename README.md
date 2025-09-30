@@ -5,6 +5,8 @@ Polusi udara adalah salah satu tantangan lingkungan dan kesehatan terbesar di Ja
 
 Meskipun data kualitas udara tersedia, sifatnya sering kali teknis dan reaktif sehingga masyarakat serta pemangku kepentingan sulit mengambil tindakan preventif.  
 
+link dataset = https://www.kaggle.com/datasets/senadu34/air-quality-index-in-jakarta-2010-2021/data
+
 Proyek ini bertujuan membangun **prototipe sistem peringatan dini (early warning system)** yang:  
 - ✅ Memprediksi **kapan** polusi udara akan tinggi.  
 - ✅ Menjelaskan **mengapa** polusi meningkat dengan analisis berbasis AI.  
